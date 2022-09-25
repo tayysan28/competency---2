@@ -66,6 +66,13 @@ li {
 
 img {
 	width: 40%;
-	margin-top: 100px;
+	margin-top: 5px;
+	margin-bottom: 5px;
 
+}
+
+p.paragraph{
+	font-style: italic;
+	color: #F2AA52;
+	line-height: 1.5;
 }
