@@ -67,6 +67,8 @@ p, div {
  	line-height: 1.5;
  }
 
-
+h3 {
+	list-style-type: square;
+}
 
 
