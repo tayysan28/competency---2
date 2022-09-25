@@ -68,7 +68,7 @@ img {
 h1 {
 	font-size: 3.5rem;
 }
-p, h2 {
+p div {
  	line-height: 1.5;
  	font-style: italic;
  	color: #F2AA52;
