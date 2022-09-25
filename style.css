@@ -42,3 +42,11 @@ h2 {
 h3 {
 	text-transform: uppercase;
 }
+
+html, body {
+    width: 60%;
+    align-self: center;
+
+
+  
+}
