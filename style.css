@@ -2,16 +2,22 @@
 h1 {
 
 	color: #58b4f5;
+	list-style-type: square;
 }
 
 h2 {
 
 	color: #58b4f5;
+	list-style-type: square;
+	font-size: 2.25rem;
+	font-weight: normal;
 }
 
 h3 {
 
 	color: #58b4f5;
+	list-style-type: square;
+	text-transform: uppercase;
 }
 
 p {
@@ -28,17 +34,6 @@ div p {
 
 p {
   font-family: "Times New Roman;", Times, serif;
-}
-
-
-
-h2 {
-	font-size: 2.25rem;
-	font-weight: normal;
-}
-
-h3 {
-	text-transform: uppercase;
 }
 
 html, body {
@@ -70,8 +65,6 @@ h1 {
 }
 p, div {
  	line-height: 1.5;
- 	font-style: italic;
- 	color: #F2AA52;
  }
 
 
