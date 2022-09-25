@@ -63,10 +63,16 @@ body {
 img {
 	width: 40%;
   }
+
+
 h1 {
 	font-size: 3.5rem;
 }
-
+p, h1 {
+ 	line-height: 1.5;
+ 	font-style: italic;
+ 	color: #F2AA52;
+ }
 
 
 
