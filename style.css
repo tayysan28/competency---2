@@ -64,3 +64,6 @@ li {
 	list-style-type: square;
 }
 
+img {
+	border-image-width: 40%;
+}
